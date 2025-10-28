@@ -1,3 +1,7 @@
+import sys
+sys.path.append('./agentic_codebase_genius')  # Add the subfolder to Python path
+from main import run_agentic_pipeline
+
 # multi_repo.py
 import sys
 from main import run_agentic_pipeline

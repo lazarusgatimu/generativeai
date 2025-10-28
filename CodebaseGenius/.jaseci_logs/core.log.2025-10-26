@@ -1,0 +1,21 @@
+2025-10-26 18:35:23,947 - ERROR - rt_error: test.jac:init - line 2, col 0 - rule atom - Variable not defined - print
+2025-10-26 18:35:23,948 - INFO - log: ['DEBUG_INFO', 1, 2, 8, 'test.jac']
+2025-10-26 18:35:23,949 - INFO - log: ['LOAD_VAR', 5, 'print']
+2025-10-26 18:36:20,538 - ERROR - rt_error: test.jac:init - line 2, col 0 - rule atom - Variable not defined - print
+2025-10-26 18:36:20,540 - INFO - log: ['DEBUG_INFO', 1, 2, 8, 'test.jac']
+2025-10-26 18:36:20,541 - INFO - log: ['LOAD_VAR', 5, 'print']
+2025-10-26 18:53:50,514 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7520854622f0>
+2025-10-26 18:53:50,517 - ERROR - compile_jac: test.jac: Invalid syntax in Jac code!
+2025-10-26 18:53:50,517 - ERROR - compile_jac: test.jac: line 2:4 - unparsed:test.jac:0:0: - mismatched input 'print' expecting {':', '{'}
+2025-10-26 18:53:50,518 - ERROR - register: test.jac: Code not registered
+2025-10-26 19:05:37,520 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x78b4ad55e050>
+2025-10-26 19:05:37,521 - ERROR - compile_jac: test.jac: Invalid syntax in Jac code!
+2025-10-26 19:05:37,521 - ERROR - compile_jac: test.jac: line 1:13 - unparsed:test.jac:0:0: - extraneous input '{' expecting NAME
+2025-10-26 19:05:37,522 - ERROR - compile_jac: test.jac: line 2:9 - unparsed:test.jac:0:0: - missing '{' at '('
+2025-10-26 19:05:37,522 - ERROR - register: test.jac: Code not registered
+2025-10-26 19:09:44,103 - ERROR - rt_error: test.jac:init - line 2, col 0 - rule atom - Variable not defined - print
+2025-10-26 19:09:44,104 - INFO - log: ['DEBUG_INFO', 1, 2, 8, 'test.jac']
+2025-10-26 19:09:44,105 - INFO - log: ['LOAD_VAR', 5, 'print']
+2025-10-26 19:10:04,221 - ERROR - rt_error: test.jac:init - line 2, col 0 - rule atom - Variable not defined - print
+2025-10-26 19:10:04,221 - INFO - log: ['DEBUG_INFO', 1, 2, 8, 'test.jac']
+2025-10-26 19:10:04,222 - INFO - log: ['LOAD_VAR', 5, 'print']

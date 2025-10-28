@@ -1,0 +1,51 @@
+2025-10-27 14:33:30,077 - ERROR - interface_error: No default graph node available!
+2025-10-27 14:36:55,579 - ERROR - interface_error: Internal Exception: 'NoneType' object has no attribute 'run_architype'
+2025-10-27 14:37:51,330 - ERROR - interface_error: Internal Exception: 'NoneType' object has no attribute 'run_architype'
+2025-10-27 14:38:38,061 - ERROR - interface_error: Internal Exception: 'NoneType' object has no attribute 'run_architype'
+2025-10-27 14:51:48,511 - ERROR - interface_error: Internal Exception: 'NoneType' object has no attribute 'arch_ids'
+2025-10-27 16:07:14,567 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7cc885a8de70>
+2025-10-27 16:07:14,569 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:07:14,569 - ERROR - compile_jac: docgen.jac: line 2:8 - unparsed:docgen.jac:0:0: - extraneous input 'str' expecting {'anchor', 'private', NAME}
+2025-10-27 16:07:14,570 - ERROR - compile_jac: docgen.jac: line 4:21 - unparsed:docgen.jac:0:0: - no viable alternative at input 'cangenerate_docs('
+2025-10-27 16:07:14,570 - ERROR - compile_jac: docgen.jac: line 4:24 - unparsed:docgen.jac:0:0: - missing ';' at '{'
+2025-10-27 16:07:14,571 - ERROR - compile_jac: docgen.jac: line 8:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:07:14,571 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:11:11,011 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7166ff362260>
+2025-10-27 16:11:11,012 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:11:11,012 - ERROR - compile_jac: docgen.jac: line 5:21 - unparsed:docgen.jac:0:0: - no viable alternative at input 'cangenerate_docs('
+2025-10-27 16:11:11,013 - ERROR - compile_jac: docgen.jac: line 5:24 - unparsed:docgen.jac:0:0: - missing ';' at '{'
+2025-10-27 16:11:11,013 - ERROR - compile_jac: docgen.jac: line 7:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:11:11,014 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:14:44,242 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x73ad52415cc0>
+2025-10-27 16:14:44,243 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:14:44,243 - ERROR - compile_jac: docgen.jac: line 5:21 - unparsed:docgen.jac:0:0: - no viable alternative at input 'cangenerate_docs('
+2025-10-27 16:14:44,244 - ERROR - compile_jac: docgen.jac: line 5:24 - unparsed:docgen.jac:0:0: - missing ';' at '{'
+2025-10-27 16:14:44,245 - ERROR - compile_jac: docgen.jac: line 7:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:14:44,245 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:18:55,325 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7815faf0ddb0>
+2025-10-27 16:18:55,326 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:18:55,326 - ERROR - compile_jac: docgen.jac: line 5:21 - unparsed:docgen.jac:0:0: - no viable alternative at input 'cangenerate_docs('
+2025-10-27 16:18:55,327 - ERROR - compile_jac: docgen.jac: line 5:24 - unparsed:docgen.jac:0:0: - missing ';' at '{'
+2025-10-27 16:18:55,327 - ERROR - compile_jac: docgen.jac: line 7:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:18:55,328 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:22:30,360 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x71721a379f90>
+2025-10-27 16:22:30,360 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:22:30,361 - ERROR - compile_jac: docgen.jac: line 4:21 - unparsed:docgen.jac:0:0: - no viable alternative at input 'cangenerate_docs('
+2025-10-27 16:22:30,361 - ERROR - compile_jac: docgen.jac: line 4:24 - unparsed:docgen.jac:0:0: - missing ';' at '{'
+2025-10-27 16:22:30,361 - ERROR - compile_jac: docgen.jac: line 6:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:22:30,362 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:25:45,882 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x7dd8d768dd20>
+2025-10-27 16:25:45,883 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:25:45,883 - ERROR - compile_jac: docgen.jac: line 6:18 - unparsed:docgen.jac:0:0: - no viable alternative at input 'py_moduledocgen'
+2025-10-27 16:25:45,884 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:33:50,076 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x72b011822290>
+2025-10-27 16:33:50,077 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:33:50,078 - ERROR - compile_jac: docgen.jac: line 11:0 - unparsed:docgen.jac:0:0: - extraneous input 'py_module' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-27 16:33:50,078 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:43:45,329 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x793640a7a230>
+2025-10-27 16:43:45,346 - ERROR - compile_jac: docgen.jac: Invalid syntax in Jac code!
+2025-10-27 16:43:45,347 - ERROR - compile_jac: docgen.jac: line 1:0 - unparsed:docgen.jac:0:0: - mismatched input 'py_module' expecting {<EOF>, 'version', 'type', 'graph', 'node', 'import', 'edge', 'walker', 'async', 'test', 'global'}
+2025-10-27 16:43:45,348 - ERROR - register: docgen.jac: Code not registered
+2025-10-27 16:46:59,732 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-27 17:05:21,003 - ERROR - interface_error: Internal Exception: list index out of range
+2025-10-27 17:09:26,681 - ERROR - interface_error: Internal Exception: list index out of range
