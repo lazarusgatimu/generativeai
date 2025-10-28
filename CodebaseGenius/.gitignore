@@ -4,3 +4,8 @@ outputs/
 *.pyc
 flask/
 tmp_repo/
+flask/
+tmp_repo/
+venv/
+__pycache__/
+outputs/
